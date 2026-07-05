@@ -29,8 +29,6 @@ I am improving myself on software engineer and I am constantly learning and buil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
 </p>
-<hr>
-
 <h2>📫 Let's Connect</h2>
 <ul>
   <li>Linkedin: www.linkedin.com/in/muhammad-ali-tahirzadeh</li>
