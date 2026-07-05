@@ -32,10 +32,10 @@ I am improving myself on software engineer and I am constantly learning and buil
 </p>
 <hr>
 
-<h3>📫 Let's Connect</h3>
+<h2>📫 Let's Connect</h2>
 <hr>
 <ul>
-  <li>Linkedin:www.linkedin.com/in/muhammad-ali-tahirzadeh</li>
-  <li>Mail:muhammadali.tahirzadeh@gmail.com</li>
+  <li>Linkedin: www.linkedin.com/in/muhammad-ali-tahirzadeh</li>
+  <li>Mail: muhammadali.tahirzadeh@gmail.com</li>
 </ul>
 
