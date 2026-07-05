@@ -2,7 +2,6 @@
 I am improving myself on software engineer and I am constantly learning and building in the field of software engineering. I am learning Backend Development, Node.js, Express.js, and PostgreSQL.
 
 <h2>💻 Tech Stack</h2>
-<hr>
 <h3>Languages</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
@@ -33,7 +32,6 @@ I am improving myself on software engineer and I am constantly learning and buil
 <hr>
 
 <h2>📫 Let's Connect</h2>
-<hr>
 <ul>
   <li>Linkedin: www.linkedin.com/in/muhammad-ali-tahirzadeh</li>
   <li>Mail: muhammadali.tahirzadeh@gmail.com</li>
